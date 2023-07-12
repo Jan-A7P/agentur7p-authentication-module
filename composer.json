@@ -20,5 +20,6 @@
             "Modules\\Authentication\\": ""
         }
     },
-    "minimum-stability": 
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
