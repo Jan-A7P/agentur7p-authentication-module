@@ -1,0 +1,23 @@
+{
+    "name": "agentur7p/authentication",
+    "description": "",
+    "authors": [
+        {
+            "name": "Jan Knöbl",
+            "email": "jan@agentur7p.de"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\Authentication\\": ""
+        }
+    }
+}
